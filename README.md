@@ -16,6 +16,8 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 ### LIST PARA CREATOR
 - [Barnando Akbarto Hidayatullah](./nando.md)
 
+<!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
+<!-- INI OTOMATIS GENERATE DARI BOT -->
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
