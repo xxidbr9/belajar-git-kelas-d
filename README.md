@@ -13,7 +13,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 2. kalau temen" bingung cara kolaborasinya bagaimana, temen" yang sudah paham bisa bantu temen" yang kesulitan
 
 
-### LIST PARA CREATOR
+### BIODATA KONTRIBUTOR
 - [Barnando Akbarto Hidayatullah](./nando.md)
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
