@@ -20,3 +20,4 @@ Beberapa yang saya tulis di bawah, ada yg masih belajar.
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
 ![Construct2](https://img.shields.io/badge/-Construct2-000?&logo=Construct2)
 ![Construct3](https://img.shields.io/badge/-Construct3-000?&logo=Construct3)
+![Blender](https://img.shields.io/badge/-Blender-000?&logo=Blender)
