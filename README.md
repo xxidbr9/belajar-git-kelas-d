@@ -17,6 +17,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 - [Barnando Akbarto Hidayatullah](./nando.md)
 - [Zaidan Triandi Rachman](./zaidantr.md)
 - [Mika Mada Aprilugari](./mika.md)
+- [Achmad Rizky](./rizky.md)
 
 <!-- YANG DIBAWAH INI SAMPAI BAWAH JANGAN DI EDIT -->
 <!-- INI OTOMATIS GENERATE DARI BOT -->
