@@ -1,6 +1,6 @@
 # Hai semua 👋
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 
@@ -28,6 +28,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="http://xxidbr9.github.io"><img src="https://avatars.githubusercontent.com/u/51733515?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Barnando Akbarto Hidayatullah</b></sub></a><br /><a href="https://github.com/xxidbr9/belajar-git-kelas-d/commits?author=xxidbr9" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/zaidantr"><img src="https://avatars.githubusercontent.com/u/99722971?v=4?s=100" width="100px;" alt=""/><br /><sub><b>zaidantr</b></sub></a><br /><a href="https://github.com/xxidbr9/belajar-git-kelas-d/commits?author=zaidantr" title="Code">💻</a></td>
   </tr>
 </table>
 
