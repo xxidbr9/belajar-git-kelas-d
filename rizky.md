@@ -3,6 +3,7 @@
 **😸 Achmad Rizky** | **📍 Jombang, Indonesia**
 
 Hallo nama saya Achmad Rizky, atau biasa dipanggil Rizky. Saya baru di dunia web development.
+Beberapa yang saya tulis di bawah, ada yg masih belajar.
 
 ### Languages
 
