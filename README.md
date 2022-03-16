@@ -11,7 +11,7 @@ di repo ini, temen" semua akan belajar bagaimana cara berkolaborasi
 2. dan setelah itu temen" bisa mulai bikin file berdasarkan nama, dan isi dengan biodata temen" yang lain
 2. temen" yang sudah paham bisa lanjut buat bikin pull request
 2. kalau temen" bingung cara kolaborasinya bagaimana, temen" yang sudah paham bisa bantu temen" yang kesulitan
-
+2. temen" bisa tiru contoh penulisan data diri disini https://zzetao.github.io/awesome-github-profile/
 
 ### BIODATA KONTRIBUTOR
 - [Barnando Akbarto Hidayatullah](./nando.md)
