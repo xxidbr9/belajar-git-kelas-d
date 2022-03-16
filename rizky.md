@@ -17,4 +17,5 @@ Hallo nama saya Achmad Rizky, atau biasa dipanggil Rizky. Saya baru di dunia web
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Arduino](https://img.shields.io/badge/-Arduino-000?&logo=Arduino)
-![Construct](https://img.shields.io/badge/-Construct-000?&logo=Construct)
+![Construct2](https://img.shields.io/badge/-Construct2-000?&logo=Construct2)
+![Construct3](https://img.shields.io/badge/-Construct3-000?&logo=Construct3)
